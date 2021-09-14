@@ -1,10 +1,6 @@
 /* PROJECT 1: RANDOM WALK 
    CAP 3027
    Professor Joshua Fox
-   
-   project by Carl Noll
-   est time: 4 hours
-   9/9/2021
 */
 
 import controlP5.*;
@@ -129,7 +125,7 @@ step count: how many steps take place in 1 frame
  case 1: random walk appears at once
  case 2: random walk occurs in real time, gradual
    case 2 considers step count
-   method: draw loop becomes the for loop, with i increment, decide stepcount 
+   method: draw loop behaves for loop, with i increment until stepcount 
  and cap value at 'iterations'
  
  
